@@ -1,0 +1,15 @@
+Python is a high-level, interpreted programming language known for its simple and readable syntax. It is widely used in web development, data analysis, artificial intelligence, machine learning, automation, and scripting.
+
+Python uses variables to store data and supports different data types such as integers, floating-point numbers, strings, lists, tuples, dictionaries, and sets. Variables do not require explicit type declarations.
+
+Python provides conditional statements such as if, elif, and else to make decisions in a program. It also provides for and while loops to execute a block of code repeatedly.
+
+Functions in Python are reusable blocks of code defined using the def keyword. Functions can accept parameters and return values, which helps make programs modular and easier to maintain.
+
+Python supports object-oriented programming through classes and objects. A class defines the properties and behavior of objects, while objects are instances created from a class.
+
+Python has a large standard library and many third-party packages. Popular libraries include NumPy for numerical computing, Pandas for data analysis, Matplotlib for visualization, Flask and Django for web development, and TensorFlow and PyTorch for machine learning.
+
+Python manages external packages using tools such as pip. A virtual environment can be created to isolate project dependencies and prevent conflicts between different projects.
+
+Python is also commonly used in Generative AI and RAG applications. Libraries such as LangChain, LlamaIndex, and Ollama's Python client can be used to build applications that work with large language models.
